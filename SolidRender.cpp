@@ -8,7 +8,6 @@
 
 #include "SolidRender.h"
 #include <cassert>
-#include <glm/fwd.hpp>
 #include <stdexcept>
 #include <string>
 
